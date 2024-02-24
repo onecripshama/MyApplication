@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlievSR</string>
+    <string name="ButtonName">PRESS</string>
+    <string name="EditorText">Введите текст</string>
+</resources>
